@@ -1,0 +1,12 @@
+{
+  "service": {
+    "name": "sample",
+    "ports": [
+      3000,
+      4000
+    ]
+  },
+  "a/b": {
+    "~key": true
+  }
+}

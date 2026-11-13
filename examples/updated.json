@@ -1,0 +1,10 @@
+{
+  "service": {
+    "name": "sample",
+    "ports": [
+      3000,
+      5000
+    ]
+  },
+  "enabled": true
+}
